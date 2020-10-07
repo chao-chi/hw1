@@ -1,0 +1,21 @@
+html{
+    background-color:#edf2c5;
+    width: 1260px; 
+    height: 920px; 
+}
+words{
+    color:#778a50;
+}
+.Vegetables {
+    width: 271px;
+    height: 62px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.82;
+    letter-spacing: normal;
+    text-align: left;
+    color: #778a50;
+  }
